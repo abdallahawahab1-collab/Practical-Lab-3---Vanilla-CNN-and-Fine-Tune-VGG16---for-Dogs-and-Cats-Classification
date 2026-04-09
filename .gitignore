@@ -1,0 +1,23 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Models & Data (VERY IMPORTANT)
+models/
+CourseNotebooks/models/
+data/
+
+*.h5
+*.keras
+
+# Images
+*.png
+*.jpg
+*.jpeg
+
+# VS Code
+.vscode/
